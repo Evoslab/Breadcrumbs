@@ -1,10 +1,6 @@
 {
 	"replace": "false",
 	"values": [
-		"cookielicious:chocolate_cookie_tile_stairs",
-		"cookielicious:vanilla_cookie_tile_stairs",
-		"cookielicious:strawberry_cookie_tile_stairs",
-		"cookielicious:honey_cookie_tile_stairs",
-		"cookielicious:sweet_berry_cookie_tile_stairs"
+	
 	]
 }
