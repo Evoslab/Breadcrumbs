@@ -1,5 +1,5 @@
 package com.evoslab.breadcrumbs.core.compat;
 
-public class CookieliciousMods {
+public class BreadcrumbsMods {
 	public static final String QUARK = "quark";
 }

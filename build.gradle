@@ -8,6 +8,7 @@ buildscript {
         classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '3.+', changing: true
     }
 }
+
 plugins {
     id "com.wynprice.cursemaven" version "2.1.1"
 }
@@ -16,7 +17,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0'
+version = "${mc_version}-${mod_version}"
 group = 'com.evoslab.breadcrumbs' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'breadcrumbs'
 
@@ -76,7 +77,7 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.16.1-32.0.108'
 
     //implementation fg.deobf("curse.maven:neapolitan:3065225")
-    implementation fg.deobf("curse.maven:autoreglib:3017289")
+    //implementation fg.deobf("curse.maven:autoreglib:3017289")
 
     implementation fg.deobf("curse.maven:abnormals-core:3072976")
     implementation fg.deobf("curse.maven:appleskin:2997288")
@@ -89,9 +90,9 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "breadcrumbs",
+            "Specification-Title": "Breadcrumbs",
             "Specification-Vendor": "Evo's Lab",
-            "Specification-Version": "1", // We are version 1 of ourselves
+            "Specification-Version": "1",
             "Implementation-Title": project.name,
             "Implementation-Version": "${version}",
             "Implementation-Vendor": "Evo's Lab",

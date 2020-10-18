@@ -13,7 +13,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 
-@Mod("cookielicious")
+@Mod("breadcrumbs")
 public class Breadcrumbs {
 
     private static final Logger LOGGER = LogManager.getLogger();
