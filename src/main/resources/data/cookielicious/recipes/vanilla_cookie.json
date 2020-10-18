@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "WRW"
+    ],
+    "key": {
+        "#": {
+            "item": "neapolitan:chocolate_bar"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "R": {
+            "item": "neapolitan:dried_vanilla_pods"
+        }
+    },
+    "result": {
+        "item": "cookielicious:vanilla_cookie",
+        "count": 8
+    }
+}

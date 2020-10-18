@@ -1,0 +1,22 @@
+{
+  "item.minecraft.cookie": "Biscoito com gotas de chocolate",
+  "item.cookielicious.strawberry_cookie": "Biscoito de morango",
+  "item.cookielicious.vanilla_cookie": "Biscoito de baunilha",
+  "item.cookielicious.sandwich_cookie": "Oreo",
+  "block.cookielicious.strawberry_cookie_tiles": "Azulejos de biscoito de morango",
+  "block.cookielicious.strawberry_cookie_tile_slab": "Laje de azulejos de biscoito de morango",
+  "block.cookielicious.strawberry_cookie_tile_stairs": "Escadas de azulejos de biscoito de morango",
+  "block.cookielicious.strawberry_cookie_tile_vertical_slab": "Laje vertical de azulejos de biscoito de morango",
+  "block.cookielicious.chocolate_cookie_tiles": "Azulejos de biscoito com gotas de chocolate",
+  "block.cookielicious.chocolate_cookie_tile_slab": "Laje de azulejos de biscoito com gotas de chocolate",
+  "block.cookielicious.chocolate_cookie_tile_stairs": "Escadas de azulejos de biscoito com gotas de chocolate",
+  "block.cookielicious.chocolate_cookie_tile_vertical_slab": "Laje vertical de azulejos de biscoito com gotas de chocolate",
+  "block.cookielicious.vanilla_cookie_tiles": "Azulejos de biscoito de baunilha",
+  "block.cookielicious.vanilla_cookie_tile_slab": "Laje de azulejos de biscoito de baunilha",
+  "block.cookielicious.vanilla_cookie_tile_stairs": "Escadas de azulejos de biscoito de baunilha",
+  "block.cookielicious.vanilla_cookie_tile_vertical_slab": "Laje vertical de azulejos de biscoito de baunilha",
+  "block.cookielicious.sandwich_cookie_tiles": "Azulejos de Oreo",
+  "block.cookielicious.sandwich_cookie_tile_slab": "Laje de azulejos de Oreo",
+  "block.cookielicious.sandwich_cookie_tile_stairs": "Escadas de azulejos de Oreo",
+  "block.cookielicious.sandwich_cookie_tile_vertical_slab": "Laje vertical de azulejos de Oreo"
+}

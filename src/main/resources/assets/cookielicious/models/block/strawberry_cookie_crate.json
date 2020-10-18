@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "cookielicious:blocks/strawberry_cookie_crate_top",
+        "bottom": "cookielicious:blocks/strawberry_cookie_crate_bottom",
+        "side": "cookielicious:blocks/strawberry_cookie_crate_side"
+    }
+}

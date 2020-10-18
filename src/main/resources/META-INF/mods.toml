@@ -1,0 +1,64 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[32,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="cookielicious" #mandatory
+
+version="1.0.0" #mandatory
+
+displayName="Cookielicious" #mandatory
+
+updateJSONURL="http://myurl.me/" #optional
+
+displayURL="http://example.com/" #optional
+
+logoFile="cookielicious.png" #optional
+
+credits="Thanks to Team Abnormals for making Neapolitan" #optional
+
+authors="Evo, Stardust, AvocadoSpud, Nary" #optional
+
+description='''
+Cookielicious is an addon for Neapolitan that adds more cookie themed items.
+'''
+
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.cookielicious]]
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[32,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+
+[[dependencies.cookielicious]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cookielicious]]
+    modId="neapolitan" 
+    mandatory=true 
+    versionRange="[1.0.2,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cookielicious]] #optional
+ modId="abnormals_core"
+    mandatory=true
+    versionRange="[2.0.3,)"
+    ordering="AFTER"
+    side="BOTH"
+

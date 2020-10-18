@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+		"###"
+    ],
+    "key": {
+        "#": {
+            "item": "cookielicious:strawberry_cookie"
+        }
+    },
+    "result": {
+        "item": "cookielicious:strawberry_cookie_crate",
+        "count": 1
+    },
+	"conditions": [
+		{
+		"type": "forge:mod_loaded",
+		"modid": "quark"
+		}
+	]
+}
