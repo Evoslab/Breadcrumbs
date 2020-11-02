@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "breadcrumbs:block/bread_block"
+    }
+  }
+}
