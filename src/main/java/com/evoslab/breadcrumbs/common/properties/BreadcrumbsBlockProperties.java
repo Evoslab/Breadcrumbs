@@ -10,4 +10,8 @@ public final class BreadcrumbsBlockProperties {
             .hardnessAndResistance(1.0f, 1.0f)
             .sound(SoundType.WOOD)
             .harvestTool(ToolType.HOE);
+    public static final Block.Properties BREAD_BRICKS = Block.Properties.create(Material.ROCK)
+    		.hardnessAndResistance(1.0f, 1.0f)
+    		.sound(SoundType.STONE)
+    		.harvestTool(ToolType.PICKAXE);
 }

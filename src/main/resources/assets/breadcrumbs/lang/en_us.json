@@ -1,3 +1,23 @@
 {
-  "block.breadcrumbs.bread_block": "Bread Block"
+  "block.breadcrumbs.bread_block": "Bread Block",
+  "block.breadcrumbs.honey_bread_block": "Honey Bread Block",
+  "block.breadcrumbs.mulberry_bread_block": "Mulberry Bread Block",
+  
+  "block.breadcrumbs.bread_bricks": "Bread Bricks",
+  "block.breadcrumbs.bread_brick_slab": "Bread Brick Slab",
+  "block.breadcrumbs.bread_brick_stairs": "Bread Brick Stairs",
+  "block.breadcrumbs.bread_brick_wall": "Bread Brick Wall",
+  "block.breadcrumbs.bread_brick_vertical_slab": "Bread Brick Vertical Slab",
+  
+  "block.breadcrumbs.honey_bread_bricks": "Honey Bread Bricks",
+  "block.breadcrumbs.honey_bread_brick_slab": "Honey Bread Brick Slab",
+  "block.breadcrumbs.honey_bread_brick_stairs": "Honey Bread Brick Stairs",
+  "block.breadcrumbs.honey_bread_brick_wall": "Honey Bread Brick Wall",
+  "block.breadcrumbs.honey_bread_brick_vertical_slab": "Honey Bread Brick Vertical Slab",
+  
+  "block.breadcrumbs.mulberry_bread_bricks": "Mulberry Bread Bricks",
+  "block.breadcrumbs.mulberry_bread_brick_slab": "Mulberry Bread Brick Slab",
+  "block.breadcrumbs.mulberry_bread_brick_stairs": "Mulberry Bread Brick Stairs",
+  "block.breadcrumbs.mulberry_bread_brick_wall": "Mulberry Bread Brick Wall",
+  "block.breadcrumbs.mulberry_bread_brick_vertical_slab": "Mulberry Bread Brick Vertical Slab"
 }

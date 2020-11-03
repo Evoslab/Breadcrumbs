@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "breadcrumbs:block/mulberry_bread_block"
+    }
+  }
+}
