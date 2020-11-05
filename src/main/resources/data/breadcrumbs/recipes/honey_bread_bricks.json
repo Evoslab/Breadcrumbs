@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "breadcrumbs:honey_bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:honey_bread_bricks",
+    "count": 4
+  }
+}

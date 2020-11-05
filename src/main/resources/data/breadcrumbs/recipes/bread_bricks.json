@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "breadcrumbs:bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:bread_bricks",
+    "count": 4
+  }
+}
