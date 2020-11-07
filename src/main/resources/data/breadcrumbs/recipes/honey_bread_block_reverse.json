@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "breadcrumbs:honey_bread_block"
+    }
+  ],
+  "result": {
+    "item": "buzzier_bees:honey_bread",
+    "count": 9
+  }
+}

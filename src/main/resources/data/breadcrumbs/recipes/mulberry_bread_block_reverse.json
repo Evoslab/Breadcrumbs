@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "breadcrumbs:mulberry_bread_block"
+    }
+  ],
+  "result": {
+    "item": "upgrade_aquatic:mulberry_bread",
+    "count": 9
+  }
+}

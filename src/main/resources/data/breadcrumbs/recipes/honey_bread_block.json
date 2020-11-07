@@ -7,11 +7,11 @@
   ],
   "key": {
     "X": {
-      "item": "minecraft:bread"
+      "item": "buzzier_bees:honey_bread"
     }
   },
   "result": {
-    "item": "breadcrumbs:bread_block",
+    "item": "breadcrumbs:honey_bread_block",
     "count": 1
   }
 }
