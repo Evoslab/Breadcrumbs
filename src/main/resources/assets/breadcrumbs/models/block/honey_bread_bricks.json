@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "breadcrumbs:blocks/honey_bread_bricks"
+    "all": "breadcrumbs:block/honey_bread_bricks"
   }
 }

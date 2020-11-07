@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "breadcrumbs:blocks/bread_block"
+    "all": "breadcrumbs:block/bread_block"
   }
 }
