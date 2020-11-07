@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "breadcrumbs:block/bread_brick_slab"
+    },
+    "type=double": {
+      "model": "breadcrumbs:block/bread_bricks"
+    },
+    "type=top": {
+      "model": "breadcrumbs:block/bread_brick_slab_top"
+    }
+  }
+}

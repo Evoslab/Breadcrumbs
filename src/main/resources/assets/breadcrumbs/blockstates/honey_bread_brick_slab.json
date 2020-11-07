@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "breadcrumbs:block/honey_bread_brick_slab"
+    },
+    "type=double": {
+      "model": "breadcrumbs:block/honey_bread_bricks"
+    },
+    "type=top": {
+      "model": "breadcrumbs:block/honey_bread_brick_slab_top"
+    }
+  }
+}

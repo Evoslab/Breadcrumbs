@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+        "wall": "breadcrumbs:block/mulberry_bread_bricks"
+    }
+}

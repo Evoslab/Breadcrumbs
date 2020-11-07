@@ -1,0 +1,8 @@
+{
+    "parent": "abnormals_core:block/vertical_slab",
+    "textures": {
+        "bottom": "breadcrumbs:block/honey_bread_bricks",
+        "top": "breadcrumbs:block/honey_bread_bricks",
+        "side": "breadcrumbs:block/honey_bread_bricks"
+    }
+}
