@@ -13,5 +13,11 @@
   "result": {
     "item": "breadcrumbs:honey_bread_block",
     "count": 1
-  }
+  },
+	"conditions": [
+		{
+		"type": "forge:mod_loaded",
+		"modid": "buzzier_bees"
+		}
+	]
 }

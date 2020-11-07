@@ -12,5 +12,11 @@
   "result": {
     "item": "breadcrumbs:honey_bread_bricks",
     "count": 4
-  }
+  },
+	"conditions": [
+		{
+		"type": "forge:mod_loaded",
+		"modid": "buzzier_bees"
+		}
+	]
 }
