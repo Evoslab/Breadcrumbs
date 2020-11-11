@@ -1,11 +1,11 @@
-package com.evoslab.breadcrumbs.common.properties;
+package com.evoslab.breadcrumbs.core.other;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraftforge.common.ToolType;
 
-public final class BreadcrumbsBlockProperties {
+public final class BreadcrumbsProperties {
     public static final Block.Properties BREAD = Block.Properties.create(Material.WOOD)
             .hardnessAndResistance(1.0f, 1.0f)
             .sound(SoundType.WOOD)

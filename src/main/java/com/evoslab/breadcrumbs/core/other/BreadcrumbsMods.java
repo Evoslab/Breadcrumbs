@@ -1,4 +1,4 @@
-package com.evoslab.breadcrumbs.core.compat;
+package com.evoslab.breadcrumbs.core.other;
 
 public class BreadcrumbsMods {
 	public static final String QUARK = "quark";
