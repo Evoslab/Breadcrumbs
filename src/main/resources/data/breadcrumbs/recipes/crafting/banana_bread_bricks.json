@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "breadcrumbs:banana_bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:banana_bread_bricks",
+    "count": 4
+  },
+	"conditions": [
+		{
+		"type": "forge:mod_loaded",
+		"modid": "neapolitan"
+		}
+	]
+}

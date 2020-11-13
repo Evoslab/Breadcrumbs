@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "breadcrumbs:banana_bread_block"
+    }
+  ],
+  "result": {
+    "item": "neapolitan:banana_bread",
+    "count": 9
+  },
+	"conditions": [
+		{
+		"type": "forge:mod_loaded",
+		"modid": "neapolitan"
+		}
+	]
+}

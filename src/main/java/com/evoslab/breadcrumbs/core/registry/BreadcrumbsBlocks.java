@@ -23,6 +23,7 @@ public class BreadcrumbsBlocks {
     public static final RegistryObject<Block> BREAD_BLOCK = HELPER.createBlock("bread_block", () -> new Block(BreadcrumbsProperties.BREAD), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> HONEY_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.BUZZIER_BEES, "honey_bread_block", () -> new Block(BreadcrumbsProperties.BREAD), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> MULBERRY_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.UPGRADE_AQUATIC, "mulberry_bread_block", () -> new Block(BreadcrumbsProperties.BREAD), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> BANANA_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_block", () -> new Block(BreadcrumbsProperties.BREAD), ItemGroup.BUILDING_BLOCKS);
     
     public static final RegistryObject<Block> BREAD_BRICKS = HELPER.createBlock("bread_bricks", () -> new Block(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> BREAD_BRICK_SLAB = HELPER.createBlock("bread_brick_slab", () -> new SlabBlock(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
@@ -41,5 +42,11 @@ public class BreadcrumbsBlocks {
     public static final RegistryObject<Block> MULBERRY_BREAD_BRICK_STAIRS = HELPER.createCompatBlock(BreadcrumbsMods.UPGRADE_AQUATIC, "mulberry_bread_brick_stairs", () -> new AbnormalsStairsBlock(BREAD_BRICKS.get().getDefaultState(), BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> MULBERRY_BREAD_BRICK_WALL = HELPER.createCompatBlock(BreadcrumbsMods.UPGRADE_AQUATIC, "mulberry_bread_brick_wall", () -> new WallBlock(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.DECORATIONS);
     public static final RegistryObject<Block> MULBERRY_BREAD_BRICK_VERTICAL_SLAB = HELPER.createTwoCompatBlock(BreadcrumbsMods.UPGRADE_AQUATIC, BreadcrumbsMods.QUARK, "mulberry_bread_brick_vertical_slab", () -> new VerticalSlabBlock(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    
+    public static final RegistryObject<Block> BANANA_BREAD_BRICKS = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_bricks", () -> new Block(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> BANANA_BREAD_BRICK_SLAB = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_brick_slab", () -> new SlabBlock(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> BANANA_BREAD_BRICK_STAIRS = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_brick_stairs", () -> new AbnormalsStairsBlock(BREAD_BRICKS.get().getDefaultState(), BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> BANANA_BREAD_BRICK_WALL = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_brick_wall", () -> new WallBlock(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.DECORATIONS);
+    public static final RegistryObject<Block> BANANA_BREAD_BRICK_VERTICAL_SLAB = HELPER.createTwoCompatBlock(BreadcrumbsMods.NEAPOLITAN, BreadcrumbsMods.QUARK, "banana_bread_brick_vertical_slab", () -> new VerticalSlabBlock(BreadcrumbsProperties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
     
 }
