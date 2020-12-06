@@ -9,10 +9,6 @@ buildscript {
     }
 }
 
-plugins {
-    id "com.wynprice.cursemaven" version "2.1.1"
-}
-
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
@@ -25,7 +21,7 @@ sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = co
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 minecraft {
-    mappings channel: project.mappingsChannel, version: project.mappings
+    mappings channel: 'snapshot', version: '20201028-1.16.3'
 
     runs {
         client {
@@ -74,13 +70,19 @@ minecraft {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.4-35.0.1'
+    minecraft 'net.minecraftforge:forge:1.16.4-35.1.10'
 
     //implementation fg.deobf("curse.maven:autoreglib:${arl_id}")
 	//implementation fg.deobf("curse.maven:quark:${quark_id}")
 
-    implementation fg.deobf("curse.maven:abnormals-core:${ac_id}")
-    implementation fg.deobf("curse.maven:appleskin:${appleskin_id}")
+    implementation fg.deobf("curse.maven:abnormals-core-382216:${ac_id}")
+    implementation fg.deobf("curse.maven:appleskin-248787:${appleskin_id}")
+}
+
+repositories {
+    maven {
+        url "https://www.cursemaven.com"
+    }
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..
