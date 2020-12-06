@@ -3,7 +3,7 @@ package com.evoslab.breadcrumbs.core;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.evoslab.breadcrumbs.core.registry.util.BreadcrumbsRegistryHelper;
+import com.minecraftabnormals.abnormals_core.core.util.registry.RegistryHelper;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -18,7 +18,7 @@ public class Breadcrumbs {
 
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "breadcrumbs";
-    public static final BreadcrumbsRegistryHelper REGISTRY_HELPER = new BreadcrumbsRegistryHelper(MOD_ID);
+    public static final RegistryHelper REGISTRY_HELPER = new RegistryHelper(MOD_ID);
     public static Breadcrumbs instance;
     
     IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
@@ -28,8 +28,7 @@ public class Breadcrumbs {
         modEventBus.addListener(this::doClientStuff);
         instance = this;
 
-        REGISTRY_HELPER.getDeferredItemRegister().register(modEventBus);
-        REGISTRY_HELPER.getDeferredBlockRegister().register(modEventBus);
+        REGISTRY_HELPER.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
