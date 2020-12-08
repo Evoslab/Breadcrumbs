@@ -1,31 +1,16 @@
-modLoader="javafml" #mandatory
-
+modLoader="javafml"
 loaderVersion="[35,)"
-
 license="All rights reserved"
-
 issueTrackerURL="https://github.com/Evoslab/Breadcrumbs/issues"
-
-[[mods]] #mandatory
-
-modId="breadcrumbs" #mandatory
-
-version="1.1.0" #mandatory
-
-displayName="Breadcrumbs" #mandatory
-
-updateJSONURL="http://myurl.me/" #optional
-
-displayURL="http://example.com/" #optional
-
-logoFile="breadcrumbs.png" #optional
-
+[[mods]]
+modId="breadcrumbs"
+version="1.1.0"
+displayName="Breadcrumbs"
+logoFile="breadcrumbs.png"
 credits=""
-
-authors=""
-
+authors="Evo's Lab"
 description='''
-
+Blocks and bricks for your bread!
 '''
 
 [[dependencies.breadcrumbs]]
