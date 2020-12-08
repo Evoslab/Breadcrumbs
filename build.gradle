@@ -21,7 +21,7 @@ sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = co
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 minecraft {
-    mappings channel: 'snapshot', version: '20201028-1.16.3'
+    mappings channel: ${mappingsChannel}, version: ${mappings}
 
     runs {
         client {
@@ -70,7 +70,7 @@ minecraft {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.4-35.1.10'
+    minecraft "net.minecraftforge:forge:${project.mc_version}-${project.forge_version}"
 
     //implementation fg.deobf("curse.maven:autoreglib:${arl_id}")
 	//implementation fg.deobf("curse.maven:quark:${quark_id}")
