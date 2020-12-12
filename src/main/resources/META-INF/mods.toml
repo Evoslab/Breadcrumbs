@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[35,)"
+loaderVersion="[34,)"
 license="All rights reserved"
 issueTrackerURL="https://github.com/Evoslab/Breadcrumbs/issues"
 [[mods]]
 modId="breadcrumbs"
-version="1.1.0"
+version="1.1.1"
 displayName="Breadcrumbs"
 logoFile="breadcrumbs.png"
 credits="Evo, Nuxthefox, EltrutLikes, AvocadoSpud"
@@ -16,14 +16,14 @@ Blocks and bricks for your bread!
 [[dependencies.breadcrumbs]]
     modId="forge"
     mandatory=true
-    versionRange="[35,)"
+    versionRange="[34,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.breadcrumbs]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.4]"
+    versionRange="[1.16.3, 1.17)"
     ordering="NONE"
     side="BOTH"
 
