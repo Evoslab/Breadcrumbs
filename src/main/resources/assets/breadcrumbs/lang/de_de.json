@@ -1,0 +1,30 @@
+{
+  "block.breadcrumbs.bread_block": "Brotblock",
+  "block.breadcrumbs.honey_bread_block": "Honigbrotblock",
+  "block.breadcrumbs.mulberry_bread_block": "Maulbeerbrotblock",
+  "block.breadcrumbs.banana_bread_block": "Bananenbrotblock",
+  
+  "block.breadcrumbs.bread_bricks": "Brotziegel",
+  "block.breadcrumbs.bread_brick_slab": "Brotziegelstufe",
+  "block.breadcrumbs.bread_brick_stairs": "Brotziegeltreppe",
+  "block.breadcrumbs.bread_brick_wall": "Brotziegelmauer",
+  "block.breadcrumbs.bread_brick_vertical_slab": "Vertikale Brotziegelstufe",
+  
+  "block.breadcrumbs.honey_bread_bricks": "Honigbrotziegel",
+  "block.breadcrumbs.honey_bread_brick_slab": "Honigbrotziegelstufe",
+  "block.breadcrumbs.honey_bread_brick_stairs": "Honigbrotziegeltreppe",
+  "block.breadcrumbs.honey_bread_brick_wall": "Honigbrotziegelmauer",
+  "block.breadcrumbs.honey_bread_brick_vertical_slab": "Vertikale Honigbrotziegelstufe",
+  
+  "block.breadcrumbs.mulberry_bread_bricks": "Maulbeerbrotziegel",
+  "block.breadcrumbs.mulberry_bread_brick_slab": "Maulbeerbrotziegelstufe",
+  "block.breadcrumbs.mulberry_bread_brick_stairs": "Maulbeerbrotziegeltreppe",
+  "block.breadcrumbs.mulberry_bread_brick_wall": "Maulbeerbrotziegelmauer",
+  "block.breadcrumbs.mulberry_bread_brick_vertical_slab": "Vertikale Maulbeerbrotziegelstufe",
+  
+  "block.breadcrumbs.banana_bread_bricks": "Bananenbrotziegel",
+  "block.breadcrumbs.banana_bread_brick_slab": "Bananenbrotziegelstufe",
+  "block.breadcrumbs.banana_bread_brick_stairs": "Bananenbrotziegeltreppe",
+  "block.breadcrumbs.banana_bread_brick_wall": "Bananenbrotziegelmauer",
+  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Vertikale Bananenbrotziegelstufe"
+}
