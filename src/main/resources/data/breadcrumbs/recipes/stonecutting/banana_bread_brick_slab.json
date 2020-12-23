@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:banana_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:banana_bread_bricks"
+	}
+  ],
+  "result": "breadcrumbs:banana_bread_brick_slab",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "neapolitan"
+    }
+  ]
+}

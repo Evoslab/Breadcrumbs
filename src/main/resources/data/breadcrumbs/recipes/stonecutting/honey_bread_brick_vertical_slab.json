@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:honey_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:honey_bread_bricks"
+	}
+  ],
+  "result": "breadcrumbs:honey_bread_brick_vertical_slab",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "buzzier_bees"
+    },
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "vertical_slabs"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:honey_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:honey_bread_bricks"
+	}
+  ],
+  "result": "breadcrumbs:honey_bread_brick_wall",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "buzzier_bees"
+    }
+  ]
+}
