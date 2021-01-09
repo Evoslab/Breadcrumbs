@@ -7,7 +7,7 @@ modId="breadcrumbs"
 version="1.1.2"
 displayName="Breadcrumbs"
 logoFile="breadcrumbs.png"
-credits="Evo, Nuxthefox, EltrutLikes, AvocadoSpud"
+credits="Evo, Nuxthefox, EltrutLikes, AvocadoSpud, Audako"
 authors="Evo's Lab"
 description='''
 Blocks and bricks for your bread!
@@ -33,4 +33,3 @@ Blocks and bricks for your bread!
     versionRange="[3.0.0,)"
     ordering="AFTER"
     side="BOTH"
-
