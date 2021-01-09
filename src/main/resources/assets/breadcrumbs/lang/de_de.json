@@ -3,6 +3,7 @@
   "block.breadcrumbs.honey_bread_block": "Honigbrotblock",
   "block.breadcrumbs.mulberry_bread_block": "Maulbeerbrotblock",
   "block.breadcrumbs.banana_bread_block": "Bananenbrotblock",
+  "block.breadcrumbs.pumpkin_bread_block": "Kürbisbrotblock",
   
   "block.breadcrumbs.bread_bricks": "Brotziegel",
   "block.breadcrumbs.bread_brick_slab": "Brotziegelstufe",
@@ -26,5 +27,11 @@
   "block.breadcrumbs.banana_bread_brick_slab": "Bananenbrotziegelstufe",
   "block.breadcrumbs.banana_bread_brick_stairs": "Bananenbrotziegeltreppe",
   "block.breadcrumbs.banana_bread_brick_wall": "Bananenbrotziegelmauer",
-  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Vertikale Bananenbrotziegelstufe"
+  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Vertikale Bananenbrotziegelstufe",
+  
+  "block.breadcrumbs.pumpkin_bread_bricks": "Kürbisbrotziegel",
+  "block.breadcrumbs.pumpkin_bread_brick_slab": "Kürbisbrotziegelstufe",
+  "block.breadcrumbs.pumpkin_bread_brick_stairs": "Kürbisbrotziegeltreppe",
+  "block.breadcrumbs.pumpkin_bread_brick_wall": "Kürbisbrotziegelmauer",
+  "block.breadcrumbs.pumpkin_bread_brick_vertical_slab": "Vertikale Kürbisbrotziegelstufe"
 }

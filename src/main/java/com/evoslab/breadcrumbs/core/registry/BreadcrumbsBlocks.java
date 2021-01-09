@@ -26,6 +26,7 @@ public class BreadcrumbsBlocks {
     public static final RegistryObject<Block> HONEY_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.BUZZIER_BEES, "honey_bread_block", () -> new Block(Properties.BREAD), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> MULBERRY_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.UPGRADE_AQUATIC, "mulberry_bread_block", () -> new Block(Properties.BREAD), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> BANANA_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_block", () -> new Block(Properties.BREAD), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> PUMPKIN_BREAD_BLOCK = HELPER.createCompatBlock(BreadcrumbsMods.AUTUMNITY, "pumpkin_bread_block", () -> new Block(Properties.BREAD), ItemGroup.BUILDING_BLOCKS);
     
     public static final RegistryObject<Block> BREAD_BRICKS = HELPER.createBlock("bread_bricks", () -> new Block(Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
     public static final RegistryObject<Block> BREAD_BRICK_SLAB = HELPER.createBlock("bread_brick_slab", () -> new SlabBlock(Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
@@ -51,15 +52,22 @@ public class BreadcrumbsBlocks {
     public static final RegistryObject<Block> BANANA_BREAD_BRICK_WALL = HELPER.createCompatBlock(BreadcrumbsMods.NEAPOLITAN, "banana_bread_brick_wall", () -> new WallBlock(Properties.BREAD_BRICKS), ItemGroup.DECORATIONS);
     public static final RegistryObject<Block> BANANA_BREAD_BRICK_VERTICAL_SLAB = HELPER.createCompatBlock("banana_bread_brick_vertical_slab", () -> new VerticalSlabBlock(Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS, BreadcrumbsMods.NEAPOLITAN, BreadcrumbsMods.QUARK);
     
+    public static final RegistryObject<Block> PUMPKIN_BREAD_BRICKS = HELPER.createCompatBlock(BreadcrumbsMods.AUTUMNITY, "pumpkin_bread_bricks", () -> new Block(Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> PUMPKIN_BREAD_BRICK_SLAB = HELPER.createCompatBlock(BreadcrumbsMods.AUTUMNITY, "pumpkin_bread_brick_slab", () -> new SlabBlock(Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> PUMPKIN_BREAD_BRICK_STAIRS = HELPER.createCompatBlock(BreadcrumbsMods.AUTUMNITY, "pumpkin_bread_brick_stairs", () -> new AbnormalsStairsBlock(BREAD_BRICKS.get().getDefaultState(), Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS);
+    public static final RegistryObject<Block> PUMPKIN_BREAD_BRICK_WALL = HELPER.createCompatBlock(BreadcrumbsMods.AUTUMNITY, "pumpkin_bread_brick_wall", () -> new WallBlock(Properties.BREAD_BRICKS), ItemGroup.DECORATIONS);
+    public static final RegistryObject<Block> PUMPKIN_BREAD_BRICK_VERTICAL_SLAB = HELPER.createCompatBlock("pumpkin_bread_brick_vertical_slab", () -> new VerticalSlabBlock(Properties.BREAD_BRICKS), ItemGroup.BUILDING_BLOCKS, BreadcrumbsMods.AUTUMNITY, BreadcrumbsMods.QUARK);
+    
+    
     public static class Properties {
-    	public static final Block.Properties BREAD = Block.Properties.create(Material.WOOD)
+    	public static final Block.Properties BREAD = Block.Properties.create(Material.WOOL)
     			.hardnessAndResistance(1.0f, 1.0f)
-    			.sound(SoundType.WOOD)
+    			.sound(SoundType.CLOTH)
     			.harvestTool(ToolType.HOE);
-    	public static final Block.Properties BREAD_BRICKS = Block.Properties.create(Material.ROCK)
+    	public static final Block.Properties BREAD_BRICKS = Block.Properties.create(Material.WOOL)
         		.hardnessAndResistance(1.0f, 1.0f)
-        		.sound(SoundType.STONE)
-        		.harvestTool(ToolType.PICKAXE);
+        		.sound(SoundType.CLOTH)
+        		.harvestTool(ToolType.HOE);
     }
     
 }

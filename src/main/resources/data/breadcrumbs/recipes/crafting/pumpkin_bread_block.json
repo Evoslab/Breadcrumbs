@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "autumnity:pumpkin_bread"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:pumpkin_bread_block",
+    "count": 1
+  },
+	"conditions": [
+		{
+		"type": "forge:mod_loaded",
+		"modid": "autumnity"
+		}
+	]
+}

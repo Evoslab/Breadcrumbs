@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "breadcrumbs:block/pumpkin_bread_bricks",
+    "top": "breadcrumbs:block/pumpkin_bread_bricks",
+    "side": "breadcrumbs:block/pumpkin_bread_bricks"
+  }
+}

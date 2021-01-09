@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "breadcrumbs:block/pumpkin_bread_block"
+  }
+}

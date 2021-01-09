@@ -3,6 +3,7 @@
   "block.breadcrumbs.honey_bread_block": "Honey Bread Block",
   "block.breadcrumbs.mulberry_bread_block": "Mulberry Bread Block",
   "block.breadcrumbs.banana_bread_block": "Banana Bread Block",
+  "block.breadcrumbs.pumpkin_bread_block": "Pumpkin Bread Block",
   
   "block.breadcrumbs.bread_bricks": "Bread Bricks",
   "block.breadcrumbs.bread_brick_slab": "Bread Brick Slab",
@@ -26,5 +27,11 @@
   "block.breadcrumbs.banana_bread_brick_slab": "Banana Bread Brick Slab",
   "block.breadcrumbs.banana_bread_brick_stairs": "Banana Bread Brick Stairs",
   "block.breadcrumbs.banana_bread_brick_wall": "Banana Bread Brick Wall",
-  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Banana Bread Brick Vertical Slab"
+  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Banana Bread Brick Vertical Slab",
+  
+  "block.breadcrumbs.pumpkin_bread_bricks": "Pumpkin Bread Bricks",
+  "block.breadcrumbs.pumpkin_bread_brick_slab": "Pumpkin Bread Brick Slab",
+  "block.breadcrumbs.pumpkin_bread_brick_stairs": "Pumpkin Bread Brick Stairs",
+  "block.breadcrumbs.pumpkin_bread_brick_wall": "Pumpkin Bread Brick Wall",
+  "block.breadcrumbs.pumpkin_bread_brick_vertical_slab": "Pumpkin Bread Brick Vertical Slab"
 }

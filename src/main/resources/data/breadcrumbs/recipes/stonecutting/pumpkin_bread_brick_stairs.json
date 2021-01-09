@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:pumpkin_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:pumpkin_bread_bricks"
+	}
+  ],
+  "result": "breadcrumbs:pumpkin_bread_brick_stairs",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ]
+}
