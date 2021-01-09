@@ -1,0 +1,37 @@
+{
+  "block.breadcrumbs.bread_block": "Bloque de pan",
+  "block.breadcrumbs.honey_bread_block": "Bloque de pan de miel",
+  "block.breadcrumbs.mulberry_bread_block": "Bloque de pan de morera",
+  "block.breadcrumbs.banana_bread_block": "Bloque de pan de plátano",
+  "block.breadcrumbs.pumpkin_bread_block": "Bloque de pan de calabaza",
+  
+  "block.breadcrumbs.bread_bricks": "Ladrillos de pan",
+  "block.breadcrumbs.bread_brick_slab": "Losa de ladrillo para pan",
+  "block.breadcrumbs.bread_brick_stairs": "Escaleras de ladrillo de pan",
+  "block.breadcrumbs.bread_brick_wall": "Pared de ladrillo de pan",
+  "block.breadcrumbs.bread_brick_vertical_slab": "Losa vertical de ladrillo de pan",
+  
+  "block.breadcrumbs.honey_bread_bricks": "Ladrillos de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_slab": "Losa de ladrillo de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_stairs": "Escaleras de ladrillo de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_wall": "Pared de ladrillo de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_vertical_slab": "Losa vertical de ladrillo de pan de miel",
+
+  "block.breadcrumbs.mulberry_bread_bricks": "Ladrillos de pan de morera",
+  "block.breadcrumbs.mulberry_bread_brick_slab": "Losa de ladrillo de pan de morera",
+  "block.breadcrumbs.mulberry_bread_brick_stairs": "Escaleras de ladrillo de pan de morera",
+  "block.breadcrumbs.mulberry_bread_brick_wall": "Pared de ladrillos de pan de morera",
+  "block.breadcrumbs.mulberry_bread_brick_vertical_slab": "Losa vertical de ladrillo de pan de morera",
+
+  "block.breadcrumbs.banana_bread_bricks": "Ladrillos de pan de plátano",
+  "block.breadcrumbs.banana_bread_brick_slab": "Losa de ladrillo de pan de plátano",
+  "block.breadcrumbs.banana_bread_brick_stairs": "Escaleras de ladrillos de pan de plátano",
+  "block.breadcrumbs.banana_bread_brick_wall": "Pared de ladrillos de pan de plátano",
+  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Losa vertical de ladrillo de pan de plátano",
+
+  "block.breadcrumbs.pumpkin_bread_bricks": "Ladrillos de pan de calabaza",
+  "block.breadcrumbs.pumpkin_bread_brick_slab": "Losa de ladrillo de pan de calabaza",
+  "block.breadcrumbs.pumpkin_bread_brick_stairs": "Escaleras de ladrillo de pan de calabaza",
+  "block.breadcrumbs.pumpkin_bread_brick_wall": "Pared de ladrillo de pan de calabaza",
+  "block.breadcrumbs.pumpkin_bread_brick_vertical_slab": "Losa vertical de ladrillo de pan de calabaza"
+}
