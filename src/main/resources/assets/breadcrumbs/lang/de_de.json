@@ -1,9 +1,15 @@
 {
-  "block.breadcrumbs.bread_block": "Brotblock",
-  "block.breadcrumbs.honey_bread_block": "Honigbrotblock",
-  "block.breadcrumbs.mulberry_bread_block": "Maulbeerbrotblock",
-  "block.breadcrumbs.banana_bread_block": "Bananenbrotblock",
-  "block.breadcrumbs.pumpkin_bread_block": "Kürbisbrotblock",
+  "block.breadcrumbs.bread_block": "Bread Block",
+  "block.breadcrumbs.bread_slab": "Bread Slab",
+  "block.breadcrumbs.bread_stairs": "Bread Stairs",
+  "block.breadcrumbs.bread_wall": "Bread Wall",
+  "block.breadcrumbs.bread_vertical_slab": "Bread Vertical Slab",
+  
+  "block.breadcrumbs.polished_bread_block": "Polished Bread Block",
+  "block.breadcrumbs.polished_bread_slab": "Polished Bread Slab",
+  "block.breadcrumbs.polished_bread_stairs": "Polished Bread Stairs",
+  "block.breadcrumbs.polished_bread_wall": "Polished Bread Wall",
+  "block.breadcrumbs.polished_bread_vertical_slab": "Polished Bread Vertical Slab",
   
   "block.breadcrumbs.bread_bricks": "Brotziegel",
   "block.breadcrumbs.bread_brick_slab": "Brotziegelstufe",
@@ -15,6 +21,18 @@
   "block.breadcrumbs.bread_pillar": "Brotsäule",
   "block.breadcrumbs.chiseled_bread_bricks": "Gemeißelte Brotziegel",
   
+  "block.breadcrumbs.honey_bread_block": "Honey Bread Block",
+  "block.breadcrumbs.honey_bread_slab": "Honey Bread Slab",
+  "block.breadcrumbs.honey_bread_stairs": "Honey Bread Stairs",
+  "block.breadcrumbs.honey_bread_wall": "Honey Bread Wall",
+  "block.breadcrumbs.honey_bread_vertical_slab": "Honey Bread Vertical Slab",
+  
+  "block.breadcrumbs.polished_honey_bread_block": "Polished Honey Bread Block",
+  "block.breadcrumbs.polished_honey_bread_slab": "Polished Honey Bread Slab",
+  "block.breadcrumbs.polished_honey_bread_stairs": "Polished Honey Bread Stairs",
+  "block.breadcrumbs.polished_honey_bread_wall": "Polished Honey Bread Wall",
+  "block.breadcrumbs.polished_honey_bread_vertical_slab": "Polished Honey Bread Vertical Slab",
+  
   "block.breadcrumbs.honey_bread_bricks": "Honigbrotziegel",
   "block.breadcrumbs.honey_bread_brick_slab": "Honigbrotziegelstufe",
   "block.breadcrumbs.honey_bread_brick_stairs": "Honigbrotziegeltreppe",
@@ -22,8 +40,20 @@
   "block.breadcrumbs.honey_bread_brick_vertical_slab": "Vertikale Honigbrotziegelstufe",
   
   "block.breadcrumbs.honey_bread_pavement": "Honigbrotpflaster",
-  "block.breadcrumbs.joney_bread_pillar": "Honigbrotsäule",
+  "block.breadcrumbs.honey_bread_pillar": "Honigbrotsäule",
   "block.breadcrumbs.chiseled_honey_bread_bricks": "Gemeißelte Honigbrotziegel",
+  
+  "block.breadcrumbs.mulberry_bread_block": "Mulberry Bread Block",
+  "block.breadcrumbs.mulberry_bread_slab": "Mulberry Bread Slab",
+  "block.breadcrumbs.mulberry_bread_stairs": "Mulberry Bread Stairs",
+  "block.breadcrumbs.mulberry_bread_wall": "Mulberry Bread Wall",
+  "block.breadcrumbs.mulberry_bread_vertical_slab": "Mulberry Bread Vertical Slab",
+  
+  "block.breadcrumbs.polished_mulberry_bread_block": "Polished Mulberry Bread Block",
+  "block.breadcrumbs.polished_mulberry_bread_slab": "Polished Mulberry Bread Slab",
+  "block.breadcrumbs.polished_mulberry_bread_stairs": "Polished Mulberry Bread Stairs",
+  "block.breadcrumbs.polished_mulberry_bread_wall": "Polished Mulberry Bread Wall",
+  "block.breadcrumbs.polished_mulberry_bread_vertical_slab": "Polished Mulberry Bread Vertical Slab",
   
   "block.breadcrumbs.mulberry_bread_bricks": "Maulbeerbrotziegel",
   "block.breadcrumbs.mulberry_bread_brick_slab": "Maulbeerbrotziegelstufe",
@@ -35,6 +65,18 @@
   "block.breadcrumbs.mulberry_bread_pillar": "Maulbeerbrotsäule",
   "block.breadcrumbs.chiseled_mulberry_bread_bricks": "Gemeißelte Maulbeerbrotziegel",
   
+  "block.breadcrumbs.banana_bread_block": "Banana Bread Block",
+  "block.breadcrumbs.banana_bread_slab": "Banana Bread Slab",
+  "block.breadcrumbs.banana_bread_stairs": "Banana Bread Stairs",
+  "block.breadcrumbs.banana_bread_wall": "Banana Bread Wall",
+  "block.breadcrumbs.banana_bread_vertical_slab": "Banana Bread Vertical Slab",
+  
+  "block.breadcrumbs.polished_banana_bread_block": "Polished Banana Bread Block",
+  "block.breadcrumbs.polished_banana_bread_slab": "Polished Banana Bread Slab",
+  "block.breadcrumbs.polished_banana_bread_stairs": "Polished Banana Bread Stairs",
+  "block.breadcrumbs.polished_banana_bread_wall": "Polished Banana Bread Wall",
+  "block.breadcrumbs.polished_banana_bread_vertical_slab": "Polished Banana Bread Vertical Slab",
+  
   "block.breadcrumbs.banana_bread_bricks": "Bananenbrotziegel",
   "block.breadcrumbs.banana_bread_brick_slab": "Bananenbrotziegelstufe",
   "block.breadcrumbs.banana_bread_brick_stairs": "Bananenbrotziegeltreppe",
@@ -44,6 +86,18 @@
   "block.breadcrumbs.banana_bread_pavement": "Bananenbrotpflaster",
   "block.breadcrumbs.banana_bread_pillar": "Bananenbrotsäule",
   "block.breadcrumbs.chiseled_banana_bread_bricks": "Gemeißelte Bananenbrotziegel",
+  
+  "block.breadcrumbs.pumpkin_bread_block": "Pumpkin Bread Block",
+  "block.breadcrumbs.pumpkin_bread_slab": "Pumpkin Bread Slab",
+  "block.breadcrumbs.pumpkin_bread_stairs": "Pumpkin Bread Stairs",
+  "block.breadcrumbs.pumpkin_bread_wall": "Pumpkin Bread Wall",
+  "block.breadcrumbs.pumpkin_bread_vertical_slab": "Pumpkin Bread Vertical Slab",
+  
+  "block.breadcrumbs.polished_pumpkin_bread_block": "Polished Pumpkin Bread Block",
+  "block.breadcrumbs.polished_pumpkin_bread_slab": "Polished Pumpkin Bread Slab",
+  "block.breadcrumbs.polished_pumpkin_bread_stairs": "Polished Pumpkin Bread Stairs",
+  "block.breadcrumbs.polished_pumpkin_bread_wall": "Polished Pumpkin Bread Wall",
+  "block.breadcrumbs.polished_pumpkin_bread_vertical_slab": "Polished Pumpkin Bread Vertical Slab",
   
   "block.breadcrumbs.pumpkin_bread_bricks": "Kürbisbrotziegel",
   "block.breadcrumbs.pumpkin_bread_brick_slab": "Kürbisbrotziegelstufe",
