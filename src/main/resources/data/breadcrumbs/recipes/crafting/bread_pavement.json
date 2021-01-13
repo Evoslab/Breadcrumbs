@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breadcrumbs:polished_bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:bread_pavement",
+    "count": 9
+  },
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_pavement"
+    }
+  ]
+} 

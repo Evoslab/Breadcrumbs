@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "breadcrumbs:polished_bread_slab"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:bread_pillar",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_pillar"
+    }
+  ]
+} 

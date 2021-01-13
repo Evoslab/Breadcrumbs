@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "breadcrumbs:bread_block"
+  },
+  "result": "breadcrumbs:bread_pillar",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_pillar"
+    }
+  ]
+} 
