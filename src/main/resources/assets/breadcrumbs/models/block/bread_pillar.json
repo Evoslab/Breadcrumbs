@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "breadcrumbs:block/bread_pillar_top",
+        "side": "breadcrumbs:block/bread_pillar"
+    }
+}

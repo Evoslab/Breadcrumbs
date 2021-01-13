@@ -11,11 +11,19 @@
   "block.breadcrumbs.bread_brick_wall": "Bread Brick Wall",
   "block.breadcrumbs.bread_brick_vertical_slab": "Bread Brick Vertical Slab",
   
+  "block.breadcrumbs.bread_pavement": "Bread Pavement",
+  "block.breadcrumbs.bread_pillar": "Bread Pillar",
+  "block.breadcrumbs.chiseled_bread_bricks": "Chiseled Bread Bricks",
+  
   "block.breadcrumbs.honey_bread_bricks": "Honey Bread Bricks",
   "block.breadcrumbs.honey_bread_brick_slab": "Honey Bread Brick Slab",
   "block.breadcrumbs.honey_bread_brick_stairs": "Honey Bread Brick Stairs",
   "block.breadcrumbs.honey_bread_brick_wall": "Honey Bread Brick Wall",
   "block.breadcrumbs.honey_bread_brick_vertical_slab": "Honey Bread Brick Vertical Slab",
+  
+  "block.breadcrumbs.honey_bread_pavement": "Honey Bread Pavement",
+  "block.breadcrumbs.joney_bread_pillar": "Honey Bread Pillar",
+  "block.breadcrumbs.chiseled_honey_bread_bricks": "Chiseled Honey Bread Bricks",
   
   "block.breadcrumbs.mulberry_bread_bricks": "Mulberry Bread Bricks",
   "block.breadcrumbs.mulberry_bread_brick_slab": "Mulberry Bread Brick Slab",
@@ -23,15 +31,27 @@
   "block.breadcrumbs.mulberry_bread_brick_wall": "Mulberry Bread Brick Wall",
   "block.breadcrumbs.mulberry_bread_brick_vertical_slab": "Mulberry Bread Brick Vertical Slab",
   
+  "block.breadcrumbs.mulberry_bread_pavement": "Mulberry Bread Pavement",
+  "block.breadcrumbs.mulberry_bread_pillar": "Mulberry Bread Pillar",
+  "block.breadcrumbs.chiseled_mulberry_bread_bricks": "Chiseled Mulberry Bread Bricks",
+  
   "block.breadcrumbs.banana_bread_bricks": "Banana Bread Bricks",
   "block.breadcrumbs.banana_bread_brick_slab": "Banana Bread Brick Slab",
   "block.breadcrumbs.banana_bread_brick_stairs": "Banana Bread Brick Stairs",
   "block.breadcrumbs.banana_bread_brick_wall": "Banana Bread Brick Wall",
   "block.breadcrumbs.banana_bread_brick_vertical_slab": "Banana Bread Brick Vertical Slab",
   
+  "block.breadcrumbs.banana_bread_pavement": "Banana Bread Pavement",
+  "block.breadcrumbs.banana_bread_pillar": "Banana Bread Pillar",
+  "block.breadcrumbs.chiseled_banana_bread_bricks": "Chiseled Banana Bread Bricks",
+  
   "block.breadcrumbs.pumpkin_bread_bricks": "Pumpkin Bread Bricks",
   "block.breadcrumbs.pumpkin_bread_brick_slab": "Pumpkin Bread Brick Slab",
   "block.breadcrumbs.pumpkin_bread_brick_stairs": "Pumpkin Bread Brick Stairs",
   "block.breadcrumbs.pumpkin_bread_brick_wall": "Pumpkin Bread Brick Wall",
-  "block.breadcrumbs.pumpkin_bread_brick_vertical_slab": "Pumpkin Bread Brick Vertical Slab"
+  "block.breadcrumbs.pumpkin_bread_brick_vertical_slab": "Pumpkin Bread Brick Vertical Slab",
+  
+  "block.breadcrumbs.pumpkin_bread_pavement": "Pumpkin Bread Pavement",
+  "block.breadcrumbs.pumpkin_bread_pillar": "Pumpkin Bread Pillar",
+  "block.breadcrumbs.chiseled_pumpkin_bread_bricks": "Chiseled Pumpkin Bread Bricks"
 }
