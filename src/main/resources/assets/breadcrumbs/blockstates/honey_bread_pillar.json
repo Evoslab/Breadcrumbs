@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "breadcrumbs:block/honey_bread_pillar" },
+        "axis=z":   { "model": "breadcrumbs:block/honey_bread_pillar", "x": 90 },
+        "axis=x":   { "model": "breadcrumbs:block/honey_bread_pillar", "x": 90, "y": 90 }
+    }
+}
