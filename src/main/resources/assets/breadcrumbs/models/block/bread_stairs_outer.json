@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+        "bottom": "breadcrumbs:block/bread_block",
+        "top": "breadcrumbs:block/bread_block",
+        "side": "breadcrumbs:block/bread_block"
+    }
+}

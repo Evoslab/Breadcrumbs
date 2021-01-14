@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breadcrumbs:bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:bread_stairs",
+    "count": 4
+  }
+}

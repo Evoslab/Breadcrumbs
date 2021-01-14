@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+        "bottom": "breadcrumbs:block/mulberry_bread_block",
+        "top": "breadcrumbs:block/mulberry_bread_block",
+        "side": "breadcrumbs:block/mulberry_bread_block"
+    }
+}

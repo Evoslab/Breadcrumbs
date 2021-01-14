@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:bread_block"
+	}
+  ],
+  "result": "breadcrumbs:bread_slab",
+  "count": 2
+}
