@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+        "wall": "breadcrumbs:block/polished_banana_bread_block"
+    }
+}

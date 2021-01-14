@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "breadcrumbs:block/polished_pumpkin_bread_slab"
+    },
+    "type=double": {
+      "model": "breadcrumbs:block/polished_pumpkin_bread_block"
+    },
+    "type=top": {
+      "model": "breadcrumbs:block/polished_pumpkin_bread_slab_top"
+    }
+  }
+}
