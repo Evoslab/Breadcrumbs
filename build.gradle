@@ -78,6 +78,8 @@ dependencies {
     implementation fg.deobf("curse.maven:abnormals-core-382216:${ac_id}")
 	implementation fg.deobf("curse.maven:buzzier-bees-355458:${bb_id}")
 	implementation fg.deobf("curse.maven:upgrade-aquatic-326895:${ua_id}")
+	implementation fg.deobf("curse.maven:autumnity-365045:${autumnity_id}")
+	implementation fg.deobf("curse.maven:neapolitan-382016:${neapolitan_id}")
 }
 
 repositories {
