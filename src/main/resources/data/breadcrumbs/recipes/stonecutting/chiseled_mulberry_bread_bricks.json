@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:mulberry_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:polished_mulberry_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:mulberry_bread_bricks"
+	},
+  ],
+  "result": "breadcrumbs:chiseled_mulberry_bread_bricks",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_chiseled"
+    },
+	{
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:honey_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:polished_honey_bread_block"
+	}
+  ],
+  "result": "breadcrumbs:honey_bread_pavement",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_pavement"
+    },
+	{
+      "type": "forge:mod_loaded",
+      "modid": "buzzier_bees"
+    }
+  ]
+} 

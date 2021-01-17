@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "breadcrumbs:honey_bread_bricks_slab"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:chiseled_honey_bread_bricks",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_chiseled"
+    },
+	{
+      "type": "forge:mod_loaded",
+      "modid": "buzzier_bees"
+    }
+  ]
+} 

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:pumpkin_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:polished_pumpkin_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:pumpkin_bread_bricks"
+	},
+  ],
+  "result": "breadcrumbs:chiseled_pumpkin_bread_bricks",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "abnormals_core:quark_flag",
+      "flag": "stone_chiseled"
+    },
+	{
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ]
+}
