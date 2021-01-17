@@ -6,9 +6,6 @@
 	},
 	{
 	  "item": "breadcrumbs:polished_bread_block"
-	},
-	{
-	  "item": "breadcrumbs:bread_bricks"
 	}
   ],
   "result": "breadcrumbs:chiseled_bread_bricks",

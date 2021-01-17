@@ -6,9 +6,6 @@
 	},
 	{
 	  "item": "breadcrumbs:polished_honey_bread_block"
-	},
-	{
-	  "item": "breadcrumbs:honey_bread_bricks"
 	}
   ],
   "result": "breadcrumbs:chiseled_honey_bread_bricks",
