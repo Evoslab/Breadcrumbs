@@ -1,8 +1,13 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "breadcrumbs:banana_bread_block"
-  },
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:banana_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:polished_banana_bread_block"
+	}
+  ],
   "result": "breadcrumbs:banana_bread_bricks",
   "count": 1,
   "conditions": [

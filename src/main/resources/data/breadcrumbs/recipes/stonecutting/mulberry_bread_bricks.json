@@ -1,8 +1,13 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "breadcrumbs:mulberry_bread_block"
-  },
+  "ingredient": [
+	{
+	  "item": "breadcrumbs:mulberry_bread_block"
+	},
+	{
+	  "item": "breadcrumbs:polished_mulbery_bread_block"
+	}
+  ],
   "result": "breadcrumbs:mulberry_bread_bricks",
   "count": 1,
   "conditions": [

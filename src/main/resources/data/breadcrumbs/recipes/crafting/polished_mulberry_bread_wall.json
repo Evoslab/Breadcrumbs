@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breadcrumbs:polished_mulberry_bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:polished_mulberry_bread_wall",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "upgrade_aquatic"
+    },
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "lepton"
+	}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "breadcrumbs:polished_pumpkin_bread_block"
+    }
+  },
+  "result": {
+    "item": "breadcrumbs:polished_pumpkin_bread_wall",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    },
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "lepton"
+	}
+  ]
+}

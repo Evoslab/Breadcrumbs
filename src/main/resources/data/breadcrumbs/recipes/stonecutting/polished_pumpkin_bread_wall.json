@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "breadcrumbs:pumpkin_bread_block"
+  },
+  "result": "breadcrumbs:polished_pumpkin_bread_wall",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    },
+	{
+	  "type": "forge:mod_loaded",
+	  "modid": "lepton"
+	}
+  ]
+}
