@@ -1,0 +1,111 @@
+{
+  "block.breadcrumbs.bread_block": "Bloque de pan",
+  "block.breadcrumbs.bread_slab": "Baldosa de pan",
+  "block.breadcrumbs.bread_stairs": "Escaleras de pan",
+  "block.breadcrumbs.bread_wall": "Pared de pan",
+  "block.breadcrumbs.bread_vertical_slab": "Baldosa vertical de pan",
+
+  "block.breadcrumbs.polished_bread_block": "Bloque de pan pulido",
+  "block.breadcrumbs.polished_bread_slab": "Baldosa de pan pulido",
+  "block.breadcrumbs.polished_bread_stairs": "Escaleras de pan pulido",
+  "block.breadcrumbs.polished_bread_wall": "Pared de pan pulido",
+  "block.breadcrumbs.polished_bread_vertical_slab": "Baldosa vertical de pan pulido",
+
+  "block.breadcrumbs.bread_bricks": "Ladrillos de pan",
+  "block.breadcrumbs.bread_brick_slab": "Baldosa de ladrillos de pan",
+  "block.breadcrumbs.bread_brick_stairs": "Escaleras de ladrillos de pan",
+  "block.breadcrumbs.bread_brick_wall": "Pared de ladrillos de pan",
+  "block.breadcrumbs.bread_brick_vertical_slab": "Baldosa vertical de ladrillos de pan",
+
+  "block.breadcrumbs.bread_pavement": "Pavimento de pan",
+  "block.breadcrumbs.bread_pillar": "Columna de pan",
+  "block.breadcrumbs.chiseled_bread_bricks": "Ladrillos de pan cincelados",
+
+  "block.breadcrumbs.honey_bread_block": "Bloque de pan de miel",
+  "block.breadcrumbs.honey_bread_slab": "Baldosa de pan de miel",
+  "block.breadcrumbs.honey_bread_stairs": "Escaleras de pan de miel",
+  "block.breadcrumbs.honey_bread_wall": "Pared de pan de miel",
+  "block.breadcrumbs.honey_bread_vertical_slab": "Baldosa vertical de pan de miel",
+
+  "block.breadcrumbs.polished_honey_bread_block": "Bloque de pan de miel pulido",
+  "block.breadcrumbs.polished_honey_bread_slab": "Baldosa de pan de miel pulido",
+  "block.breadcrumbs.polished_honey_bread_stairs": "Escaleras de pan de miel pulido",
+  "block.breadcrumbs.polished_honey_bread_wall": "Pared de pan de miel pulido",
+  "block.breadcrumbs.polished_honey_bread_vertical_slab": "Baldosa vertical de pan de miel pulido",
+
+  "block.breadcrumbs.honey_bread_bricks": "Ladrillos de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_slab": "Baldosa de ladrillos de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_stairs": "Escaleras de ladrillos de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_wall": "Pared de ladrillos de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_vertical_slab": "Baldosa vertical de ladrillos de pan de miel",
+
+  "block.breadcrumbs.honey_bread_pavement": "Pavimento de pan de miel",
+  "block.breadcrumbs.honey_bread_pillar": "Columna de pan de miel",
+  "block.breadcrumbs.chiseled_honey_bread_bricks": "Ladrillos cincelados de pan de miel",
+
+  "block.breadcrumbs.mulberry_bread_block": "Bloque de pan de moras",
+  "block.breadcrumbs.mulberry_bread_slab": "Baldosa de pan de moras",
+  "block.breadcrumbs.mulberry_bread_stairs": "Escaleras de pan de moras",
+  "block.breadcrumbs.mulberry_bread_wall": "Pared de pan de moras",
+  "block.breadcrumbs.mulberry_bread_vertical_slab": "Baldosa vertical de pan de moras",
+
+  "block.breadcrumbs.polished_mulberry_bread_block": "Bloque de pan de moras pulido",
+  "block.breadcrumbs.polished_mulberry_bread_slab": "Baldosa de pan de moras pulido",
+  "block.breadcrumbs.polished_mulberry_bread_stairs": "Escaleras de pan de moras pulido",
+  "block.breadcrumbs.polished_mulberry_bread_wall": "Pared de pan de moras pulido",
+  "block.breadcrumbs.polished_mulberry_bread_vertical_slab": "Baldosa vertical de pan de moras pulido",
+
+  "block.breadcrumbs.mulberry_bread_bricks": "Ladrillos de pan de moras",
+  "block.breadcrumbs.mulberry_bread_brick_slab": "Baldosa de ladrillos de pan de moras",
+  "block.breadcrumbs.mulberry_bread_brick_stairs": "Escaleras de ladrillos de pan de moras",
+  "block.breadcrumbs.mulberry_bread_brick_wall": "Pared de ladrillos de pan de moras",
+  "block.breadcrumbs.mulberry_bread_brick_vertical_slab": "Baldosa vertical de ladrillos de pan de moras",
+
+  "block.breadcrumbs.mulberry_bread_pavement": "Pavimento de pan de moras",
+  "block.breadcrumbs.mulberry_bread_pillar": "Columna de pan de moras",
+  "block.breadcrumbs.chiseled_mulberry_bread_bricks": "Ladrillos cincelados de pan de moras",
+
+  "block.breadcrumbs.banana_bread_block": "Bloque de pan de banana",
+  "block.breadcrumbs.banana_bread_slab": "Baldosa de pan de banana",
+  "block.breadcrumbs.banana_bread_stairs": "Escaleras de pan de banana",
+  "block.breadcrumbs.banana_bread_wall": "Pared de pan de banana",
+  "block.breadcrumbs.banana_bread_vertical_slab": "Baldosa vertical de pan de banana",
+
+  "block.breadcrumbs.polished_banana_bread_block": "Bloque de pan de banana pulido",
+  "block.breadcrumbs.polished_banana_bread_slab": "Baldosa de pan de banana pulido",
+  "block.breadcrumbs.polished_banana_bread_stairs": "Escaleras de pan de banana pulido",
+  "block.breadcrumbs.polished_banana_bread_wall": "Pared de pan de banana pulido",
+  "block.breadcrumbs.polished_banana_bread_vertical_slab": "Baldosa vertical de pan de banana pulido",
+
+  "block.breadcrumbs.banana_bread_bricks": "Ladrillos de pan de banana",
+  "block.breadcrumbs.banana_bread_brick_slab": "Baldosa de ladrillos de pan de banana",
+  "block.breadcrumbs.banana_bread_brick_stairs": "Escaleras de ladrillos de pan de banana",
+  "block.breadcrumbs.banana_bread_brick_wall": "Pared de ladrillos de pan de banana",
+  "block.breadcrumbs.banana_bread_brick_vertical_slab": "Baldosa vertical de ladrillos de pan de banana",
+
+  "block.breadcrumbs.banana_bread_pavement": "Pavimento de pan de banana",
+  "block.breadcrumbs.banana_bread_pillar": "Columna de pan de banana",
+  "block.breadcrumbs.chiseled_banana_bread_bricks": "Ladrillos de pan de banana cincelados",
+
+  "block.breadcrumbs.pumpkin_bread_block": "Bloque de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_slab": "Baldosa de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_stairs": "Escaleras de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_wall": "Pared de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_vertical_slab": "Baldosa vertical de pan de zapallo",
+
+  "block.breadcrumbs.polished_pumpkin_bread_block": "Bloque de pan de zapallo pulido",
+  "block.breadcrumbs.polished_pumpkin_bread_slab": "Baldosa de pan de zapallo pulido",
+  "block.breadcrumbs.polished_pumpkin_bread_stairs": "Escaleras de pan de zapallo pulido",
+  "block.breadcrumbs.polished_pumpkin_bread_wall": "Pared de pan de zapallo pulido",
+  "block.breadcrumbs.polished_pumpkin_bread_vertical_slab": "Baldosa vertical de pan de zapallo pulido",
+
+  "block.breadcrumbs.pumpkin_bread_bricks": "Ladrillos de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_brick_slab": "Baldosa de ladrillos de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_brick_stairs": "Escaleras de ladrillos de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_brick_wall": "Pared de ladrillos de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_brick_vertical_slab": "Baldosa vertical de ladrillos de pan de zapallo",
+
+  "block.breadcrumbs.pumpkin_bread_pavement": "Pavimento de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_pillar": "Columna de pan de zapallo",
+  "block.breadcrumbs.chiseled_pumpkin_bread_bricks": "Ladrillos de pan de zapallo cincelados"
+}
