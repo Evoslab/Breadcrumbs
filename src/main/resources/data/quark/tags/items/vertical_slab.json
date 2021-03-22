@@ -1,0 +1,20 @@
+{
+	"replace": "false",
+	"values": [
+		"breadcrumbs:bread_vertical_slab",
+		"breadcrumbs:polished_bread_vertical_slab",
+		"breadcrumbs:bread_brick_vertical_slab",
+		"breadcrumbs:honey_bread_vertical_slab",
+		"breadcrumbs:polished_honey_bread_vertical_slab",
+		"breadcrumbs:honey_bread_brick_vertical_slab",
+		"breadcrumbs:mulberry_bread_vertical_slab",
+		"breadcrumbs:polished_mulberry_bread_vertical_slab",
+		"breadcrumbs:mulberry_bread_brick_vertical_slab",
+		"breadcrumbs:banana_bread_vertical_slab",
+		"breadcrumbs:polished_banana_bread_vertical_slab",
+		"breadcrumbs:banana_bread_brick_vertical_slab",
+		"breadcrumbs:pumpkin_bread_vertical_slab",
+		"breadcrumbs:polished_pumpkin_bread_vertical_slab",
+		"breadcrumbs:pumpkin_bread_brick_vertical_slab"
+	]
+}
